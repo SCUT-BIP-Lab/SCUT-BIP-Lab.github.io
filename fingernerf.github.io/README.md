@@ -1,1 +1,0 @@
-# fingernerf.github.io
