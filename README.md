@@ -1,1 +1,1 @@
-# fingernerf.github.io
+# SCUT-BIP-Lab.github.io
